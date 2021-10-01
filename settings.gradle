@@ -8,5 +8,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ExpFlipperApp"
 include ':app'
-include ':testdilibrary'
-include ':commonlibrary'

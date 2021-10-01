@@ -1,7 +1,7 @@
-package com.lionzxy.testdilibrary.test
+package com.flpper.app.test
 
 import android.content.Context
-import com.lionzxy.commonlibrary.TestGraph
+import com.flpper.app.di.TestGraph
 import com.squareup.anvil.annotations.ContributesBinding
 import javax.inject.Inject
 import javax.inject.Singleton
